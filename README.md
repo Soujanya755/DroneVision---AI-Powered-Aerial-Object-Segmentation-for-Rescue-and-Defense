@@ -1,1 +1,0 @@
-# DroneVision---AI-Powered-Aerial-Object-Segmentation-for-Rescue-and-Defense
